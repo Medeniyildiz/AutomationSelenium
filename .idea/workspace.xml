@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="033b87df-38b8-471b-913a-e11466938b03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/AlertPracticePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/CheckBoxPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/DropDownPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/AlertPracticeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/CheckBoxTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/DropDownTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/ActionsPracticePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/ActionsPracticeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/BrowserUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/ConfigurationReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/Driver.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/ExplicitWaitPracticePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/ExplicitWaitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +41,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="TestNG.ActionsPracticeTest">
+  <component name="RunManager" selected="TestNG.ExplicitWaitTest">
     <configuration name="ActionsPracticeTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutomationSelenium" />
       <extension name="coverage">
@@ -124,8 +110,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ExplicitWaitTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.ExplicitWaitTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ExplicitWaitTest" />
         <item itemvalue="TestNG.ActionsPracticeTest" />
         <item itemvalue="TestNG.DropDownTest" />
         <item itemvalue="TestNG.CheckBoxTest" />
